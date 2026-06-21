@@ -45,5 +45,4 @@ A neutrality score (0–100), a breakdown of detected bias types, and tailored r
 ## Tech stack
 
 - React + Vite
-- Claude API (Anthropic) for bias analysis<img width="1450" height="901" alt="Snímek obrazovky 2026-06-21 v 15 41 26" src="https://github.com/user-attachments/assets/58c0b576-886f-4975-9c63-ff3d31e64a7d" />
-<img width="1450" height="901" alt="Snímek obrazovky 2026-06-21 v 15 41 26" src="https://github.com/user-attachments/assets/797de80e-2949-490f-9de8-e77ee069c58a" />
+- Claude API (Anthropic) for bias analysis
