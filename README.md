@@ -3,6 +3,10 @@ AI-powered tool for UX researchers to detect hidden biases in interview guides a
 
 <img width="485" height="281" alt="Snímek obrazovky 2026-03-06 v 16 46 19" src="https://github.com/user-attachments/assets/71f7ca9e-840b-4b37-9fd1-bdf86c423f2e" />
 
+## Demo
+
+[![Watch the demo](src/preview.png)](https://youtu.be/VqQ4yHuQSBA)
+
 
 Built with React + Claude AI (Anthropic). Supports English, Czech, and German.
 
